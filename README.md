@@ -22,8 +22,8 @@ This project analyzes hotel booking data to identify revenue trends, occupancy p
 - Weekly Revenue & Booking Trends  
 
 ## 🛠 Tools Used
-- Tableau 
-
+- Tableau (Data Visualization & Dashboarding)
+- Excel (Data Cleaning & Preparation)
 ## 📷 Dashboard Preview
 <img width="1827" height="767" alt="image" src="https://github.com/user-attachments/assets/d8a79f51-1ebd-4129-af79-c9fae9fc1891" />
 
